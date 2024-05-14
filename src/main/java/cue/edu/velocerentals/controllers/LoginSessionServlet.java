@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Optional;
 
-@WebServlet("/login")
+@WebServlet("/loginSession")
 public class LoginSessionServlet extends HttpServlet {
     final static String USERNAME = "admin";
     final static String PASSWORD = "12345";

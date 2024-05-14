@@ -11,7 +11,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Registro de Usuario</title>
-        <link rel="stylesheet" type="text/css" href="register.css">
+        <link rel="stylesheet" type="text/css" href="styles/register.css">
     </head>
 <body>
 <h2>Registro de Usuario</h2>
